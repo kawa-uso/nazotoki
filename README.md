@@ -37,6 +37,10 @@
 |:----|:----|:----|:----|:----|:----|:----|
 |Sunday|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|
 
+|赤|橙|黄|緑|青|藍|紫|
+|:----|:----|:----|:----|:----|:----|:----|
+|Red|Orange|Yellow|Green|Blue|Indigo|Purple|
+
 |水星|金星|地球|火星|木星|土星|天王星|海王星|
 |:----|:----|:----|:----|:----|:----|:----|:----|
 |Mercury|Venus|Earth|Mars|Jupiter|Saturn|Uranus|Neptune|
