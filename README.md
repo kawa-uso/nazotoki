@@ -119,6 +119,7 @@ https://www.start-point.net/maps/tool/
 |Zero|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten| 
 |零|一|二|三|四|五|六|七|八|九|十| 
 ||ひとつ|ふたつ|みっつ|よっつ|いつつ|むっつ|ななつ|やっつ|ここのつ|とう| 
+||ついたち|ふたか|みっか|よっか|いつか|むいか|なのか|ようか|ここのか|とうか|
 ||1ST|2ND|3RD|4TH|5TH|6TH|7TH|8TH|9TH|10TH|
 
 |お|き|き|あ|あ|
