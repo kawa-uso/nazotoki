@@ -87,6 +87,7 @@
 ## 47個
 ### 都道府県
 https://www.start-point.net/maps/tool/
+https://note.com/1220oz_an/n/ncc783842b083
 #### ３文字
 |1|2|3|4|
 |:----|:----|:----|:----|
